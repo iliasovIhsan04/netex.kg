@@ -6,6 +6,7 @@
   margin: 0 auto;
   max-width: 1440px;
   height: 100%;
+  background: red;
 }
 .home .wrapper {
   margin-top: 98px;
@@ -23,18 +24,22 @@
   font-weight: 400;
   color: #fff;
 }
-.home .first{
-    color:var(--green);
+.home .first {
+  color: var(--green);
 }
-.home .btn{
-    margin: 40px 0;
-    width: 357px;
-    height: 54px;
-    background: var(--green);
-    border-radius: 20px;
-    outline: none;
-    border: none;
-    font-size: 16px;
-    font-weight: 500;
-    color: #fff;
+.home .btn {
+  margin: 40px 0;
+  width: 357px;
+  height: 54px;
+  background: var(--green);
+  border-radius: 20px;
+  outline: none;
+  border: none;
+  font-size: 16px;
+  font-weight: 500;
+  color: #fff;
+}
+.home .wrapper2 {
+  width: 286px;
+  height: 70px;
 }
